@@ -1,0 +1,3 @@
+_src/*.html
+!_src/holding.html
+!_src/*.main.html
